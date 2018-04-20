@@ -32,7 +32,7 @@ Released   : 20110411
     
 		<ul>
 			
-        	<li><a href="#">首頁</a></li>
+        	<li><a href="#">首�test��</a></li>
 			<li><a href="#">註冊</a></li>
 			<li><a href="#">登入</a></li>
 		</ul>
